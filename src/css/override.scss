@@ -1,0 +1,13 @@
+@import "bulmaswatch/lumen/_variables.scss";
+@import "bulma";
+@import "bulmaswatch/lumen/_overrides.scss";
+
+.player-Card{
+    min-height: 25em !important;
+    min-width: 20em !important;
+}
+
+.cardTitle{
+    padding: 1em;
+    font-size: larger;
+}
