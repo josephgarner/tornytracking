@@ -3,11 +3,11 @@ import React, {Component} from 'react'
 class Menu extends Component{
 
     render(){
-        return(
-            <div className='navbar is-dark'>
-                <div className='navbar-item'>
-                    <button className='button is-info'>Logout</button>
-                </div>
+        return (
+            <div className="column is-2 is-sidebar-menu is-hidden-mobile">
+                <aside class="menu">
+                    <p className="menu-label">Hello World</p>
+                </aside>
             </div>
         )
     }
