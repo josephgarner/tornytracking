@@ -1,5 +1,4 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# Game On [Torny Tracking]
+Personal Project: Launch date TBA
 
-## Torny Tracking
-
-Side project, the redevelopment of civ tracker from the ground up
+built using the Facebook framework React App. Game On is built on the foundation of Civ Trackers following a similar scope to its predecessor
